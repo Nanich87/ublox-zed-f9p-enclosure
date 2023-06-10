@@ -1,1 +1,1 @@
-# ublox-zed-f9p-shell
+# Enclosure for u-blox ZED-F9P GNSS module
